@@ -1,4 +1,4 @@
-### Course provject.
+### Course project.
 
 ### Music player.
 
